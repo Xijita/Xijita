@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xijita
+- 👋 Hi, I’m sri
 - 👀 I’m interested in .coding..
 - 🌱 I’m currently learning ...css, javascript, java, html
 - 💞️ I’m looking to collaborate on ...
